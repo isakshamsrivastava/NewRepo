@@ -9,6 +9,7 @@ namespace CSharpTraining
         static void Main(string[] args)
         {
             // Data Types
+            Console.WriteLine("Hello");
             string stringVar = "Hello World!!";
             
             int intVar = 100; // -2,147,483,648 to 2,147,483,647
